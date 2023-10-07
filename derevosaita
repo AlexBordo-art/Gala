@@ -1,0 +1,157 @@
+Restaurantly/
+├── assets
+│   ├── css
+│   │   └── style.css
+│   ├── img
+│   │   ├── about-bg.jpg
+│   │   ├── about.jpg
+│   │   ├── apple-touch-icon.png
+│   │   ├── chefs
+│   │   │   ├── chefs-1.jpg
+│   │   │   ├── chefs-2.jpg
+│   │   │   └── chefs-3.jpg
+│   │   ├── event-birthday.jpg
+│   │   ├── event-custom.jpg
+│   │   ├── event-private.jpg
+│   │   ├── events-bg.jpg
+│   │   ├── favicon.png
+│   │   ├── gallery
+│   │   │   ├── gallery-1.jpg
+│   │   │   ├── gallery-2.jpg
+│   │   │   ├── gallery-3.jpg
+│   │   │   ├── gallery-4.jpg
+│   │   │   ├── gallery-5.jpg
+│   │   │   ├── gallery-6.jpg
+│   │   │   ├── gallery-7.jpg
+│   │   │   └── gallery-8.jpg
+│   │   ├── hero-bg.jpg
+│   │   ├── menu
+│   │   │   ├── bread-barrel.jpg
+│   │   │   ├── caesar.jpg
+│   │   │   ├── cake.jpg
+│   │   │   ├── greek-salad.jpg
+│   │   │   ├── lobster-bisque.jpg
+│   │   │   ├── lobster-roll.jpg
+│   │   │   ├── mozzarella.jpg
+│   │   │   ├── spinach-salad.jpg
+│   │   │   └── tuscan-grilled.jpg
+│   │   ├── specials-1.png
+│   │   ├── specials-2.png
+│   │   ├── specials-3.png
+│   │   ├── specials-4.png
+│   │   ├── specials-5.png
+│   │   └── testimonials
+│   │       ├── testimonials-1.jpg
+│   │       ├── testimonials-2.jpg
+│   │       ├── testimonials-3.jpg
+│   │       ├── testimonials-4.jpg
+│   │       └── testimonials-5.jpg
+│   ├── js
+│   │   └── main.js
+│   ├── scss
+│   │   └── Readme.txt
+│   └── vendor
+│       ├── animate.css
+│       │   ├── animate.compat.css
+│       │   ├── animate.css
+│       │   └── animate.min.css
+│       ├── aos
+│       │   ├── aos.cjs.js
+│       │   ├── aos.css
+│       │   ├── aos.esm.js
+│       │   ├── aos.js
+│       │   └── aos.js.map
+│       ├── bootstrap
+│       │   ├── css
+│       │   │   ├── bootstrap.css
+│       │   │   ├── bootstrap.css.map
+│       │   │   ├── bootstrap-grid.css
+│       │   │   ├── bootstrap-grid.css.map
+│       │   │   ├── bootstrap-grid.min.css
+│       │   │   ├── bootstrap-grid.min.css.map
+│       │   │   ├── bootstrap-grid.rtl.css
+│       │   │   ├── bootstrap-grid.rtl.css.map
+│       │   │   ├── bootstrap-grid.rtl.min.css
+│       │   │   ├── bootstrap-grid.rtl.min.css.map
+│       │   │   ├── bootstrap.min.css
+│       │   │   ├── bootstrap.min.css.map
+│       │   │   ├── bootstrap-reboot.css
+│       │   │   ├── bootstrap-reboot.css.map
+│       │   │   ├── bootstrap-reboot.min.css
+│       │   │   ├── bootstrap-reboot.min.css.map
+│       │   │   ├── bootstrap-reboot.rtl.css
+│       │   │   ├── bootstrap-reboot.rtl.css.map
+│       │   │   ├── bootstrap-reboot.rtl.min.css
+│       │   │   ├── bootstrap-reboot.rtl.min.css.map
+│       │   │   ├── bootstrap.rtl.css
+│       │   │   ├── bootstrap.rtl.css.map
+│       │   │   ├── bootstrap.rtl.min.css
+│       │   │   ├── bootstrap.rtl.min.css.map
+│       │   │   ├── bootstrap-utilities.css
+│       │   │   ├── bootstrap-utilities.css.map
+│       │   │   ├── bootstrap-utilities.min.css
+│       │   │   ├── bootstrap-utilities.min.css.map
+│       │   │   ├── bootstrap-utilities.rtl.css
+│       │   │   ├── bootstrap-utilities.rtl.css.map
+│       │   │   ├── bootstrap-utilities.rtl.min.css
+│       │   │   └── bootstrap-utilities.rtl.min.css.map
+│       │   └── js
+│       │       ├── bootstrap.bundle.js
+│       │       ├── bootstrap.bundle.js.map
+│       │       ├── bootstrap.bundle.min.js
+│       │       ├── bootstrap.bundle.min.js.map
+│       │       ├── bootstrap.esm.js
+│       │       ├── bootstrap.esm.js.map
+│       │       ├── bootstrap.esm.min.js
+│       │       ├── bootstrap.esm.min.js.map
+│       │       ├── bootstrap.js
+│       │       ├── bootstrap.js.map
+│       │       ├── bootstrap.min.js
+│       │       └── bootstrap.min.js.map
+│       ├── bootstrap-icons
+│       │   ├── bootstrap-icons.css
+│       │   ├── bootstrap-icons.json
+│       │   ├── bootstrap-icons.min.css
+│       │   ├── bootstrap-icons.scss
+│       │   └── fonts
+│       │       ├── bootstrap-icons.woff
+│       │       └── bootstrap-icons.woff2
+│       ├── boxicons
+│       │   ├── css
+│       │   │   ├── animations.css
+│       │   │   ├── boxicons.css
+│       │   │   ├── boxicons.min.css
+│       │   │   └── transformations.css
+│       │   └── fonts
+│       │       ├── boxicons.eot
+│       │       ├── boxicons.svg
+│       │       ├── boxicons.ttf
+│       │       ├── boxicons.woff
+│       │       └── boxicons.woff2
+│       ├── glightbox
+│       │   ├── css
+│       │   │   ├── glightbox.css
+│       │   │   ├── glightbox.min.css
+│       │   │   ├── plyr.css
+│       │   │   └── plyr.min.css
+│       │   └── js
+│       │       ├── glightbox.js
+│       │       └── glightbox.min.js
+│       ├── isotope-layout
+│       │   ├── isotope.pkgd.js
+│       │   └── isotope.pkgd.min.js
+│       ├── php-email-form
+│       │   └── validate.js
+│       └── swiper
+│           ├── swiper-bundle.min.css
+│           ├── swiper-bundle.min.js
+│           └── swiper-bundle.min.js.map
+├── forms
+│   ├── book-a-table.php
+│   ├── contact.php
+│   └── Readme.txt
+├── index.html
+├── inner-page.html
+└── Readme.txt
+
+28 directories, 127 files
